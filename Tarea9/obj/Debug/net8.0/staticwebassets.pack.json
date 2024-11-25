@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\BlazorExamen1 - Copy\\examen1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\examen1.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\BlazorExamen1 - Copy\\examen1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.examen1.props",
+      "PackagePath": "build\\examen1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.examen1.props",
+      "PackagePath": "buildMultiTargeting\\examen1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.examen1.props",
+      "PackagePath": "buildTransitive\\examen1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
